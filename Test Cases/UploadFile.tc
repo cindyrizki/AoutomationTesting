@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadFile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>945b33cc-c7fe-4cb6-9740-ed4000ef5a0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a55ad2ae-5399-44ee-93ce-5ebb18bdd4ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\LENOVO\\Downloads\\test.txt'</defaultValue>
+      <description></description>
+      <id>a55ad2ae-5399-44ee-93ce-5ebb18bdd4ee</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
